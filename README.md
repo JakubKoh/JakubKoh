@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on my ai projects <br>🌱 I’m currently learning how mcp servers can be implemented in current ai agent solutions
+🔭 I’m currently working on ai development <br>🌱 I’m currently learning how mcp servers can be implemented in current ai agent solutions
 
 
 ## Socials:
