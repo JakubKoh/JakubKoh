@@ -1,5 +1,5 @@
 #  About Me:
- I’m currently working on ai development <br> I’m currently learning how mcp servers can be implemented in current ai agents
+ I'm 17 year old high schooler, work at Adastra as an AI optimization engineer and I'm currently working on researching agentic use for 3D modeling and 3D game making
 
 
 ## Socials:
