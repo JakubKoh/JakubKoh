@@ -1,5 +1,5 @@
 #  About Me:
- I'm 17 year old high schooler, work at Adastra as an AI optimization engineer and I'm currently working on researching agentic use for 3D modeling and 3D game making
+ I'm a 17 year old high schooler, I work at Adastra as an AI optimization engineer and I'm currently working on research in these fields -> agentic use for 3D modeling and 3D game making <br> Agents in queues for mobile app making 
 
 
 ## Socials:
